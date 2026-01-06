@@ -1,2 +1,2 @@
 ## Hi there 👋
-![alt text](linkedin-banner.png)
+![Arun](linkedin-banner.png)
