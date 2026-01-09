@@ -1,5 +1,4 @@
-![alt text](banner-1.png)
-
+![alt text](Personal-LinkedIn-Banner.png)
 ## Hi there 👋, I'm Arun Kumar
 
 # 💫 About Me:
