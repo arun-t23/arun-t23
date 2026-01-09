@@ -1,2 +1,2 @@
 ## Hi there 👋
-![Arun](<Linkedin Banner.jpg>)
+![banner](Personal-LinkedIn-Banner.png)
